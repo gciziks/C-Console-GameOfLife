@@ -1,7 +1,7 @@
 Jogo da vida em C
 ===================
 
-Jogo da vida criado em linguagem C pelo grupo ProjetoD
+Jogo da vida criado em linguagem C pelo grupo ProjetoD em 2021 para a matéria de Laboratória de Computação II
 
 ÍNDICE
 -------------
